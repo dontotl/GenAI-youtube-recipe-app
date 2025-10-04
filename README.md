@@ -156,9 +156,4 @@ deploy방법도 매우 쉬워서 누구나 쉽게 데모 웹을 만들 수 있�
 
 ![Untitled](src/Untitled%202.png)
 
-# Vector DB 연계 방안
-
-<aside>
-💡 이후 Vector DB에 데이터를 적재하고, 유사검색을 통해 확장이 가능하다.
-
-</aside>
+ 
