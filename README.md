@@ -13,10 +13,9 @@
 
 - 아하 부장 김치 찌개 : [https://www.youtube.com/watch?v=7HI6pl9-6-U](https://www.youtube.com/watch?v=7HI6pl9-6-U)
 - 고든 램지 버거 : [https://www.youtube.com/watch?v=7HI6pl9-6-U](https://www.youtube.com/watch?v=7HI6pl9-6-U)
-- 백종원 요리비책 청국장 : https://www.youtube.com/watch?v=wezbeu4-C2s
+- 백종원 요리비책 청국장 : [https://www.youtube.com/watch?v=wezbeu4-C2s](https://www.youtube.com/watch?v=wezbeu4-C2s)
 
-- 아래 소스를 약간 수정하였다
-    - ‣
+
 
 # 데모 실행
 
