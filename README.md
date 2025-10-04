@@ -1,4 +1,4 @@
-# [AI] Youtube recipe summary 간단 앱
+# [GENAI] Youtube recipe summary 간단 앱
 
 <aside>
 💡 유튜브 요리 클립으로부터 레시피와 재료를 추출하는 파이썬 앱을 만든다
@@ -7,7 +7,7 @@
 
 # 어플리케이션 논리 구성도
 
-![Untitled](%5BAI%5D%20Youtube%20recipe%20summary%20%EA%B0%84%EB%8B%A8%20%EC%95%B1%20f2d5d7b618c84dc7b4cdf679b39123b7/Untitled.png)
+![Untitled](src/Untitled.png)
 
 # 테스트 URL
 
@@ -146,7 +146,7 @@ streamlit 은 python으로 데이터 분석을 위한 웹앱을 쉽게 만들어
 
 deploy방법도 매우 쉬워서 누구나 쉽게 데모 웹을 만들 수 있다.
 
-![Untitled](%5BAI%5D%20Youtube%20recipe%20summary%20%EA%B0%84%EB%8B%A8%20%EC%95%B1%20f2d5d7b618c84dc7b4cdf679b39123b7/Untitled%201.png)
+![Untitled](src/Untitled%201.png)
 
 # 데모 화면
 
@@ -154,7 +154,7 @@ deploy방법도 매우 쉬워서 누구나 쉽게 데모 웹을 만들 수 있�
 
 아래는 아하부장 김치찌개 레시피 요약 결과이다.  
 
-![Untitled](%5BAI%5D%20Youtube%20recipe%20summary%20%EA%B0%84%EB%8B%A8%20%EC%95%B1%20f2d5d7b618c84dc7b4cdf679b39123b7/Untitled%202.png)
+![Untitled](src/Untitled%202.png)
 
 # Vector DB 연계 방안
 
