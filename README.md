@@ -1,7 +1,7 @@
 # [GENAI] Youtube recipe summary 간단 앱
 
 <aside>
-💡 유튜브 요리 클립으로부터 레시피와 재료를 추출하는 파이썬 앱을 만든다
+💡 유튜브 요리 클립으로부터 레시피와 재료를 추출하는 파이썬 앱을 만듭니다
 
 </aside>
 
@@ -19,7 +19,7 @@
 
 # 데모 실행
 
-git을 clone한다.
+git을 clone합니다.
 
 ```haskell
 $ python3.8 -m venv youtube
@@ -29,16 +29,16 @@ $ source ~/youtube/bin/activate
 (youtube) $ cd youtube_summarizer/
 ```
 
-파이썬 package를 설치한다.
+파이썬 package를 설치합니다.
 
 ```haskell
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-app.py를 작성(수정) 한다. 
+app.py를 작성(수정) 합니다. 
 
-한글로 변환하도록 지정한다.
+한글로 변환하도록 프롬프트를 지정 합니다.
 
 ```haskell
 import os
@@ -124,7 +124,7 @@ if __name__ == "__main__":
     main()
 ```
 
-streamlit으로 실행한다. 
+streamlit으로 실행합니다. 
 
 ```haskell
 (youtube) $ streamlit run app.py
@@ -139,19 +139,19 @@ Collecting usage statistics. To deactivate, set browser.gatherUsageStats to Fals
 
 # **streamlit은**
 
-streamlit 은 python으로 데이터 분석을 위한 웹앱을 쉽게 만들어주는 라이브러리이다. 
+streamlit 은 python으로 데이터 분석을 위한 웹앱을 쉽게 만들어주는 라이브러리 입니다. 
 
-아래는 공식 홈페이지의 예시 코드로 python 코드 몇 줄로 동작하는 웹 서비스를 만들 수 있다. 
+아래는 공식 홈페이지의 예시 코드로 python 코드 몇 줄로 동작하는 웹 서비스를 만들 수 있습니다. 
 
-deploy방법도 매우 쉬워서 누구나 쉽게 데모 웹을 만들 수 있다.
+deploy방법도 매우 쉬워서 누구나 쉽게 데모 웹을 만들 수 있습니다.
 
 ![Untitled](src/Untitled%201.png)
 
 # 데모 화면
 
-웹 앱을 실행하여 요리 유튜브 링크를 붙여넣으면, 레시피와 재료를 정리해 준다.
+웹 앱을 실행하여 요리 유튜브 링크를 붙여넣으면, 레시피와 재료를 정리해 줍니다.
 
-아래는 아하부장 김치찌개 레시피 요약 결과이다.  
+아래는 아하부장 김치찌개 레시피 요약 결과입니다.  
 
 ![Untitled](src/Untitled%202.png)
 
